@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox in Kotlin</string>
+    <string name="Heading">This is Main Activity with Check Boxes</string>
+    <string name="checkBox1">Coding contests</string>
+    <string name="checkBox1_text">COMP100</string>
+    <string name="checkBox2_text">COMP123</string>
+    <string name="checkBox3_text">COMP304</string>
+    <string name="submitButton">SUBMIT</string>
+</resources>
